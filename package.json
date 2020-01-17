@@ -1,0 +1,11 @@
+{
+  "name": "coding-problems",
+  "version": "0.0.1",
+  "description": "Javascript code for common coding problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnav Vohra (https://github.com/arnavvohra)",
+  "license": "ISC"
+}
