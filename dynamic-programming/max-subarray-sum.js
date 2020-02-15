@@ -1,3 +1,5 @@
+//Hackerrank link: https://www.hackerrank.com/challenges/max-array-sum/problem
+
 // Complete the maxSubsetSum function below.
 function maxSubsetSum(arr) {
     let dp =[];
