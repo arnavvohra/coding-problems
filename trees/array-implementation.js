@@ -1,0 +1,1 @@
+//If parent node is at index i in array, left child is at index 2i+1 and right child is at 2i+2
